@@ -4,8 +4,11 @@
 
 ## Используемые технологии
 1.HTML
+
 2.CSS
+
 3.React
+
 4.TypeScript 
 
 ### https://maksim-pp.github.io/ShopList/
